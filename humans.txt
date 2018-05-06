@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Gayan -- Developer -- gkt1234@gmail.com
 
 # THANKS
 
